@@ -1,0 +1,4 @@
+/debug/
+**/__pycache__
+/incrypt/database
+/incrypt/config.ini
